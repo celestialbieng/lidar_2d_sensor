@@ -2,6 +2,7 @@
 
 Simple program to visualize and publish raw point cloud data from Hokuyo UST-10LX LiDAR.
 
+![Lidar Scan Demo](Lidar.gif)
 ## Features
 - Connects directly to the LiDAR via TCP
 - Displays raw point cloud data in the console
